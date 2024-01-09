@@ -200,7 +200,16 @@ image{
 }
 .part-7-item-1{
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 } 
+.part-7-item-1 h2{
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 .part-6{
     position: absolute;
     margin-top: 200px;
